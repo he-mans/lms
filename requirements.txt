@@ -5,5 +5,5 @@ Pillow==8.3.2
 PyPDF2==1.26.0
 python-docx==0.8.10
 pytz==2019.3
-reportlab==3.5.23
+reportlab==3.5.55
 sqlparse==0.3.1
