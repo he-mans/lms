@@ -6,4 +6,4 @@ PyPDF2==1.26.0
 python-docx==0.8.10
 pytz==2019.3
 reportlab==3.5.23
-sqlparse==0.3.1
+sqlparse==0.4.4
